@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,50:60efff,100:b967ff&height=200&section=header&text=DEVELOPER%20INTERFACE%20v3.14&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=100&lines=⚡+SOFTWARE+DEVELOPER+%40+KOMAX;🚀+FOUNDER+%26+CEO+%40+HEPYEK;💻+BUILDING+INNOVATIVE+SOLUTIONS;🌟+TRANSFORMING+IDEAS+INTO+REALITY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=100&lines=⚡+SOFTWARE+DEVELOPER+%40+KOMAX;🚀+FOUNDER+%40+HEPYEK;💻+BUILDING+INNOVATIVE+SOLUTIONS;🌟+TRANSFORMING+IDEAS+INTO+REALITY)](https://git.io/typing-svg)
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -102,7 +102,7 @@ class DiyarCanKaya {
 
 ```diff
 + 💼 Software Developer @ Komax
-+ 🚀 Founder & CEO @ HepYek Yazılım
++ 🚀 Founder @ HepYek Yazılım
 + 💻 Building innovative tech solutions
 + 🎯 Passionate about clean code
 + 🌱 Constantly learning & evolving
