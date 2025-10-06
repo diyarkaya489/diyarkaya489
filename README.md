@@ -72,7 +72,7 @@ class DiyarCanKaya {
     getCurrentWork() {
         return {
             job: "Software Developer @ Komax",
-            business: "Founder & CEO @ HepYek",
+            business: "Founder @ HepYek",
             focus: [
                 "Building scalable applications",
                 "Clean architecture",
